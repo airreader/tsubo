@@ -1,6 +1,6 @@
 <html>
 <head>
-<link rel="alternate" type="application/json+oembed" href="" />`
+<link rel="alternate" type="application/json+oembed" href="https://raw.githubusercontent.com/airreader/tsubo/main/embed.json" />`
 </head>
 hoge
 </body>
